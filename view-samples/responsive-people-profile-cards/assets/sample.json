@@ -1,0 +1,79 @@
+[
+  {
+    "name": "pnp-list-formatting-responsive-people-profile-cards",
+    "reponame": "responsive-people-profile-cards",
+    "source": "pnp",
+    "title": "Responsive People Profile Cards",
+    "shortDescription": "Modern responsive profile cards displaying Microsoft 365 profile pictures, names, roles, email addresses, and departments.",
+    "url": "https://github.com/pnp/List-Formatting/tree/master/view-samples/responsive-people-profile-cards",
+    "longDescription": [
+      "This sample transforms a SharePoint Gallery view into modern people profile cards. It includes Microsoft 365 profile pictures, native person hover cards, optional field handling, and role-to-title fallback logic."
+    ],
+    "creationDateTime": "2026-09-10T00:00:00.000Z",
+    "updateDateTime": "2026-09-10T00:00:00.000Z",
+    "products": [
+      "SharePoint",
+      "Microsoft Lists"
+    ],
+    "metadata": [
+      {
+        "key": "LIST-SAMPLE-TYPE",
+        "value": "View"
+      },
+      {
+        "key": "SHAREPOINT-COMPATIBILITY",
+        "value": "SharePoint Online"
+      },
+      {
+        "key": "SAMPLE-CATEGORIES",
+        "value": "People, Cards"
+      },
+      {
+        "key": "LIST-COLUMN-TYPE",
+        "value": "Person"
+      },
+      {
+        "key": "FORMATTING-TOKENS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-OPERATORS",
+        "value": "if"
+      },
+      {
+        "key": "FORMATTING-ACTIONS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-FEATURES",
+        "value": "hideSelection, defaultHoverField"
+      },
+      {
+        "key": "CLASSES",
+        "value": ""
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/List-Formatting/master/view-samples/responsive-people-profile-cards/assets/screenshot.png",
+        "alt": "Responsive People Profile Cards"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "LeulMesfin1",
+        "pictureUrl": "https://github.com/LeulMesfin1.png",
+        "name": "Leul Mesfin"
+      }
+    ],
+    "references": [
+      {
+        "name": "Use view formatting to customize SharePoint",
+        "description": "Learn how to use JSON view formatting to customize how SharePoint list items are displayed.",
+        "url": "https://learn.microsoft.com/sharepoint/dev/declarative-customization/view-formatting"
+      }
+    ]
+  }
+]
