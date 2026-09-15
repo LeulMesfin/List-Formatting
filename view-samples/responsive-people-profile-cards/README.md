@@ -8,6 +8,8 @@ The cards use a clean Midnight and Slate color palette and display each person's
 
 No tenant-specific, organizational, or personal information is hardcoded into the JSON.
 
+![screenshot of the sample](./assets/screenshot.png)
+
 ## View requirements
 
 Create a SharePoint list containing the following columns:
