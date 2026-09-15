@@ -26,7 +26,7 @@ Create a SharePoint list containing the following columns:
 
 | Solution | Author |
 | --- | --- |
-| [responsive-people-profile-cards.json](./responsive-people-profile-cards.json) | [Leul Mesfin](https://github.com/LeulMesfin1) |
+| [responsive-people-profile-cards.json](./responsive-people-profile-cards.json) | [Leul Mesfin](https://github.com/LeulMesfin) |
 
 ## How to use
 

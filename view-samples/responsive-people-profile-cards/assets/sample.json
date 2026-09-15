@@ -26,11 +26,11 @@
       },
       {
         "key": "SAMPLE-CATEGORIES",
-        "value": "People, Cards"
+        "value": ""
       },
       {
         "key": "LIST-COLUMN-TYPE",
-        "value": "Person"
+        "value": ""
       },
       {
         "key": "FORMATTING-TOKENS",
@@ -38,7 +38,7 @@
       },
       {
         "key": "FORMATTING-OPERATORS",
-        "value": "if"
+        "value": "getUserImage"
       },
       {
         "key": "FORMATTING-ACTIONS",
@@ -46,7 +46,7 @@
       },
       {
         "key": "FORMATTING-FEATURES",
-        "value": "hideSelection, defaultHoverField"
+        "value": "fillHorizontally, hideSelection, defaultHoverField"
       },
       {
         "key": "CLASSES",
@@ -63,8 +63,8 @@
     ],
     "authors": [
       {
-        "gitHubAccount": "LeulMesfin1",
-        "pictureUrl": "https://github.com/LeulMesfin1.png",
+        "gitHubAccount": "LeulMesfin",
+        "pictureUrl": "https://github.com/LeulMesfin.png",
         "name": "Leul Mesfin"
       }
     ],
