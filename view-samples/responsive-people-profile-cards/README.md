@@ -58,7 +58,6 @@ The primary colors can be changed by updating these values in the formatting JSO
 | Profile icon background | `#0f172a` |
 | Card border | `#e2e8f0` |
 | Role background | `#f1f5f9` |
-| Bottom gradient | `#0f172a` to `#64748b` |
 
 ## Preventing scrollbars
 
